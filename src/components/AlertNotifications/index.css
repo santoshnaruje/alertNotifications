@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.crct {
+  color: green;
+  align-self: flex-start;
+  margin: 20px;
+  margin-top: 35px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 1px 1px 14px black;
+  margin: 20px;
+}
+.wrong {
+  align-self: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.warn {
+  color: red;
+  margin-top: 20px;
+  align-self: flex-start;
+  margin: 20px;
+  margin-top: 35px;
+}
+.warning {
+  color: yellow;
+  margin-top: 20px;
+  align-self: flex-start;
+  margin: 20px;
+  margin-top: 35px;
+}
+.info {
+  color: blue;
+  margin-top: 20px;
+  align-self: flex-start;
+  margin: 20px;
+  margin-top: 35px;
+}
+
+.card1 {
+  color: green;
+}
+.card2 {
+  color: red;
+}
+.card3 {
+  color: yellow;
+}
+.card4 {
+  color: blue;
+}
+p {
+  color: black;
+}
